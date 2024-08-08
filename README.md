@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-Linkedin-gray?style=flat-square&labelColor=gray&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukaslimalkl/"/>
 </a>
 
-
+<p>Debug</p>
 <strong>My Skills:<strong>
   
  <details>
