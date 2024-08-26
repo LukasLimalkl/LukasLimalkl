@@ -16,7 +16,7 @@
 
 <p align="left">
 <a href="mailto:lukinhaslima063@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:lukinhaslima063@gmail.com" />
+  <img src="https://img.shields.io/badge/-Gmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:lukaslimalkl@gmail.com" />
 </a>
 
 <a href="https://www.linkedin.com/in/lukaslimalkl/" alt="LinkedIn">
